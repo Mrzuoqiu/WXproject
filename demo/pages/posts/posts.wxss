@@ -1,0 +1,17 @@
+.username {
+    font-size: 21px;
+    font-weight: bold;
+    color:red;
+    text-align:center;
+    display:block;
+}
+.password {
+    display:block;
+    color:blue;
+    text-align:center;
+}
+.date {
+    display:block;
+    color:yellow;
+    text-align:center;
+}

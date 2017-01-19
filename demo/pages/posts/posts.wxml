@@ -1,0 +1,3 @@
+<text bindtap="toDo" class="username">{{posts.username}}</text>
+<text class="password">{{posts.password}}</text>
+<text class="date">{{posts.date}}</text>
